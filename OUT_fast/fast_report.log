@@ -1,0 +1,68 @@
+Fichier texte 0 : 			"txt1.txt"
+Fichier texte 1 : 			"txt2.txt"
+Fichier texte 2 : 			"txt3.txt"
+Fichier des vecteurs : 			"fast_occurences_vector.tsv"
+Fichier de filtre 0 : 			"mots_outils.txt"
+Fichier de filtre 1 : 			"verbes.txt"
+
+Texte 2 : 	207 tokens 	|	 42 exclus 	|	 total : 249 tokens
+
+Texte 1 : 	101 tokens 	|	 32 exclus 	|	 total : 133 tokens
+
+Texte 0 : 	106 tokens 	|	 30 exclus 	|	 total : 136 tokens
+
+
+#######		Vocabulaire total des textes : 	(133 tokens)
+---------------------------------------------------------------------
+['allons', 'intéresser', 'cours', 'linguistique', 'corpus', '.', 'd’', 'aborder', 'discipline', 'approche', ',', 'faut', 'évidemment', 'commencer', 'demander', 'qu’', 'trésor', 'langue', 'française', 'grand', 'dictionnaire', 'référence', 'français', 'définit', 'domaine', '«', 'ensemble', 'textes', 'établi', 'selon', 'principe', 'documentation', 'exhaustive', 'critère', 'thématique', 'exemplaire', 'vue', 'étude', '»', 'john', 'sinclair', '(', '1991', ')', 'linguiste', 'britannique', 'influent', 'l’', 'défini', 'quant', 'lui', 'collection', 'données', 'langagières', 'sélectionnées', 'organisées', 'critères', 'linguistiques', 'explicites', 'servir', "d'", 'échantillon', 'langage', 'linguistes', 'construisent', 'donc', 'sélectionnant', 'sous-ensemble', 'aide', 'spécifiques', 'effectuer', 'question', 'n’', 'dissociable', 'usage', 'fait', 'autre', 'point', 'important', 'mentionner', 'format', 'apparaît', 'généralement', 'forme', 'électronique', 'concrètement', 'fichier', 'fichiers', 'informatiques', 'manipulables', 'outils', 'traitement', 'cet', 'aspect', 'informatique', 'anecdotique', 'c’', 'biais', 'ordinateur', 'pourra', 'traitements', 'exemple', 'extraire', 'occurrences', 'contexte', 'expression', 'toutes', 'dirais-je', 'parlé', 'parisien', 'repérer', 'noms', 'fréquents', 'scientifique', 'scientext', 'peut', 'voir', 'copies', 'écran', 'ci-dessous', ':', 'sont', 'complètement', 'nouveaux', 'existé', 'effet', 'étudier', 'variété', 'parle', 's’', 'appuyer', 'productions', 'existantes']
+
+######################################################################                        
+#######		Vocabulaire commun des textes 0|1 : 	(16/133 tokens)
+---------------------------------------------------------------------
+['linguistique', 'corpus', '.', 'd’', ',', 'faut', 'qu’', 'langue', 'français', 'ensemble', 'étude', 'l’', 'langagières', 'aide', 'effectuer', 'n’']
+
+
+
+		METRIQUES : 
+---------------------------------------------------------------------
+Indice DICE : 		21.477 %
+Indice Jaccard : 	12.03 %
+Cosinus : 		0.644 / 1.00
+Corrélation linéaire : 	0.474
+
+
+
+######################################################################                        
+#######		Vocabulaire commun des textes 0|2 : 	(76/133 tokens)
+---------------------------------------------------------------------
+['allons', 'intéresser', 'cours', 'linguistique', 'corpus', '.', 'd’', 'aborder', 'discipline', 'approche', ',', 'faut', 'évidemment', 'commencer', 'demander', 'qu’', 'trésor', 'langue', 'française', 'grand', 'dictionnaire', 'référence', 'français', 'définit', 'domaine', '«', 'ensemble', 'textes', 'établi', 'selon', 'principe', 'documentation', 'exhaustive', 'critère', 'thématique', 'exemplaire', 'vue', 'étude', '»', 'john', 'sinclair', '(', '1991', ')', 'linguiste', 'britannique', 'influent', 'l’', 'défini', 'quant', 'lui', 'collection', 'données', 'langagières', 'sélectionnées', 'organisées', 'critères', 'linguistiques', 'explicites', 'servir', "d'", 'échantillon', 'langage', 'linguistes', 'construisent', 'donc', 'sélectionnant', 'sous-ensemble', 'aide', 'spécifiques', 'effectuer', 'question', 'n’', 'dissociable', 'usage', 'fait']
+
+
+
+		METRIQUES : 
+---------------------------------------------------------------------
+Indice DICE : 		72.727 %
+Indice Jaccard : 	57.143 %
+Cosinus : 		0.906 / 1.00
+Corrélation linéaire : 	0.853
+
+
+
+######################################################################                        
+#######		Vocabulaire commun des textes 1|2 : 	(73/133 tokens)
+---------------------------------------------------------------------
+['autre', 'point', 'important', 'qu’', 'faut', 'mentionner', 'format', 'corpus', 'apparaît', 'généralement', 'forme', 'électronique', '.', 'concrètement', ',', 'fichier', 'ensemble', 'fichiers', 'informatiques', 'manipulables', 'l’', 'aide', 'd’', 'outils', 'traitement', 'cet', 'aspect', 'informatique', 'n’', 'anecdotique', 'c’', 'biais', 'ordinateur', 'pourra', 'effectuer', 'traitements', 'exemple', 'extraire', 'occurrences', 'contexte', 'expression', 'toutes', 'dirais-je', 'français', 'parlé', 'parisien', 'repérer', 'noms', 'fréquents', 'scientifique', 'scientext', 'peut', 'voir', 'copies', 'écran', 'ci-dessous', ':', 'sont', 'complètement', 'nouveaux', 'linguistique', 'existé', 'étude', 'langue', 'effet', 'étudier', 'variété', 'parle', 's’', 'appuyer', 'productions', 'langagières', 'existantes']
+
+
+
+		METRIQUES : 
+---------------------------------------------------------------------
+Indice DICE : 		70.874 %
+Indice Jaccard : 	54.887 %
+Cosinus : 		0.908 / 1.00
+Corrélation linéaire : 	0.864
+
+
+
+--FIN DE L'ANALYSE--
+#####################################################################

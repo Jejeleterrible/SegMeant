@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SegmentedTextSM>
+    <chunk tags="" struct="">
+        <phrase tags="" struct="">
+            <proposition tags="" struct="">
+                <token tags="" struct="CVKc" type="WordSM">nous</token>
+                <token tags="" struct="KCcKCc" type="WordSM">allons</token>
+                <token tags="" struct="CVKc" type="WordSM">nous</token>
+                <token tags="" struct="KCcKcKCcKc" type="WordSM">intéresser</token>
+                <token tags="" struct="cKCc" type="WordSM">dans</token>
+                <token tags="" struct="cK" type="WordSM">ce</token>
+                <token tags="" struct="CVKCc" type="WordSM">cours</token>
+                <token tags="" struct="à" type="WordSM">à</token>
+                <token tags="" struct="CV" type="WordSM">la</token>
+                <token tags="" struct="cKCcVKCcKCVV" type="WordSM">linguistique</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="cKCcKc" type="WordSM">corpus</token>
+                <token tags="" struct="" type="SepSM">.</token>
+            </proposition>
+        </phrase>
+        <phrase tags="" struct="">
+            <proposition tags="" struct="">
+                <token tags="" struct="CVKc" type="WordSM">mais</token>
+                <token tags="" struct="KcKCc" type="WordSM">avant</token>
+                <token tags="" struct="C’" type="WordSM">d’</token>
+                <token tags="" struct="KcKCcKc" type="WordSM">aborder</token>
+                <token tags="" struct="cKCcV" type="WordSM">cette</token>
+                <token tags="" struct="cKCcKCcKCV" type="WordSM">discipline</token>
+                <token tags="" struct="VK" type="WordSM">ou</token>
+                <token tags="" struct="cKCcV" type="WordSM">cette</token>
+                <token tags="" struct="KCccKCcV" type="WordSM">approche</token>
+                <token tags="" struct="" type="SepSM">,</token>
+            </proposition>
+            <proposition tags="" struct="">
+                <token tags="" struct="VC" type="WordSM">il</token>
+                <token tags="" struct="CVKc" type="WordSM">faut</token>
+                <token tags="" struct="KcKcKCcKCc" type="WordSM">évidemment</token>
+                <token tags="" struct="cKCcKCcKc" type="WordSM">commencer</token>
+                <token tags="" struct="cKc" type="WordSM">par</token>
+                <token tags="" struct="cK" type="WordSM">se</token>
+                <token tags="" struct="cKcKCcKc" type="WordSM">demander</token>
+                <token tags="" struct="cK" type="WordSM">ce</token>
+                <token tags="" struct="cK’" type="WordSM">qu’</token>
+                <token tags="" struct="KCc" type="WordSM">est</token>
+                <token tags="" struct="VC" type="WordSM">un</token>
+                <token tags="" struct="cKCcKc" type="WordSM">corpus</token>
+                <token tags="" struct="" type="SepSM">.</token>
+            </proposition>
+        </phrase>
+        <phrase tags="" struct="">
+            <proposition tags="" struct="">
+                <token tags="" struct="cK" type="WordSM">le</token>
+                <token tags="" struct="CcKcKc" type="WordSM">trésor</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="CV" type="WordSM">la</token>
+                <token tags="" struct="cKCcVV" type="WordSM">langue</token>
+                <token tags="" struct="CcKCcVKCV" type="WordSM">française</token>
+                <token tags="" struct="" type="SepSM">,</token>
+            </proposition>
+            <proposition tags="" struct="">
+                <token tags="" struct="cK" type="WordSM">le</token>
+                <token tags="" struct="CcKCc" type="WordSM">grand</token>
+                <token tags="" struct="cKCcVKCcVKCV" type="WordSM">dictionnaire</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="cKcKcKCcV" type="WordSM">référence</token>
+                <token tags="" struct="CV" type="WordSM">du</token>
+                <token tags="" struct="CcKCcVKc" type="WordSM">français</token>
+                <token tags="" struct="" type="SepSM">,</token>
+            </proposition>
+            <proposition tags="" struct="">
+                <token tags="" struct="cKcKcKc" type="WordSM">définit</token>
+                <token tags="" struct="CVC" type="WordSM">les</token>
+                <token tags="" struct="cKCcKc" type="WordSM">corpus</token>
+                <token tags="" struct="cKCc" type="WordSM">dans</token>
+                <token tags="" struct="cK" type="WordSM">le</token>
+                <token tags="" struct="cKCVKCV" type="WordSM">domaine</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="CV" type="WordSM">la</token>
+                <token tags="" struct="cKCcVKCcKCVV" type="WordSM">linguistique</token>
+                <token tags="" struct="cKCcV" type="WordSM">comme</token>
+                <token tags="" struct="VC" type="WordSM">un</token>
+                <token tags="" struct="" type="SepSM">«</token>
+                <token tags="" struct="KCcKCccV" type="WordSM">ensemble</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="cKCcVC" type="WordSM">textes</token>
+                <token tags="" struct="KcKCcV" type="WordSM">établi</token>
+                <token tags="" struct="cKcKc" type="WordSM">selon</token>
+                <token tags="" struct="VC" type="WordSM">un</token>
+                <token tags="" struct="CcKCcKCV" type="WordSM">principe</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="cKcKcKCcKCVKc" type="WordSM">documentation</token>
+                <token tags="" struct="KCcVKCcKCV" type="WordSM">exhaustive</token>
+                <token tags="" struct="" type="SepSM">,</token>
+            </proposition>
+            <proposition tags="" struct="">
+                <token tags="" struct="VC" type="WordSM">un</token>
+                <token tags="" struct="CcKcKCV" type="WordSM">critère</token>
+                <token tags="" struct="CcKcKcKCVV" type="WordSM">thématique</token>
+                <token tags="" struct="VK" type="WordSM">ou</token>
+                <token tags="" struct="KcKCccVKCV" type="WordSM">exemplaire</token>
+                <token tags="" struct="VC" type="WordSM">en</token>
+                <token tags="" struct="CVV" type="WordSM">vue</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="CVKc" type="WordSM">leur</token>
+                <token tags="" struct="KcKCV" type="WordSM">étude</token>
+                <token tags="" struct="cKCcVKCcKCVV" type="WordSM">linguistique</token>
+                <token tags="" struct="" type="SepSM">»</token>
+                <token tags="" struct="" type="SepSM">.</token>
+            </proposition>
+        </phrase>
+        <phrase tags="" struct="">
+            <proposition tags="" struct="">
+                <token tags="" struct="cKCc" type="WordSM">john</token>
+                <token tags="" struct="cKCccVKc" type="WordSM">sinclair</token>
+                <token tags="" struct="" type="SepSM">(</token>
+                <token tags="" struct="1991" type="WordSM">1991</token>
+                <token tags="" struct="" type="SepSM">)</token>
+                <token tags="" struct="" type="SepSM">,</token>
+            </proposition>
+            <proposition tags="" struct="">
+                <token tags="" struct="VC" type="WordSM">un</token>
+                <token tags="" struct="cKCcVKCcV" type="WordSM">linguiste</token>
+                <token tags="" struct="CcKcKCcKCVV" type="WordSM">britannique</token>
+                <token tags="" struct="KCccVKCc" type="WordSM">influent</token>
+                <token tags="" struct="cKCc" type="WordSM">dans</token>
+                <token tags="" struct="cK" type="WordSM">le</token>
+                <token tags="" struct="cKCVKCV" type="WordSM">domaine</token>
+                <token tags="" struct="" type="SepSM">,</token>
+            </proposition>
+            <proposition tags="" struct="">
+                <token tags="" struct="C’" type="WordSM">l’</token>
+                <token tags="" struct="V" type="WordSM">a</token>
+                <token tags="" struct="cKcKCV" type="WordSM">défini</token>
+                <token tags="" struct="CVKCc" type="WordSM">quant</token>
+                <token tags="" struct="à" type="WordSM">à</token>
+                <token tags="" struct="CVK" type="WordSM">lui</token>
+                <token tags="" struct="cKCcV" type="WordSM">comme</token>
+                <token tags="" struct="" type="SepSM">«</token>
+                <token tags="" struct="KCV" type="WordSM">une</token>
+                <token tags="" struct="cKCcKCcVKc" type="WordSM">collection</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="cKCcKVC" type="WordSM">données</token>
+                <token tags="" struct="cKCcKCVKCVC" type="WordSM">langagières</token>
+                <token tags="" struct="cKcKCcVKCcKVC" type="WordSM">sélectionnées</token>
+                <token tags="" struct="VC" type="WordSM">et</token>
+                <token tags="" struct="KCcKcKcKVC" type="WordSM">organisées</token>
+                <token tags="" struct="cKcKc" type="WordSM">selon</token>
+                <token tags="" struct="CVC" type="WordSM">des</token>
+                <token tags="" struct="CcKcKCVC" type="WordSM">critères</token>
+                <token tags="" struct="cKCcVKCcKCVVC" type="WordSM">linguistiques</token>
+                <token tags="" struct="KCccKcKCVC" type="WordSM">explicites</token>
+                <token tags="" struct="CVKc" type="WordSM">pour</token>
+                <token tags="" struct="cKCcKc" type="WordSM">servir</token>
+                <token tags="" struct="C'" type="WordSM">d'</token>
+                <token tags="" struct="KCcKCcKCcKc" type="WordSM">échantillon</token>
+                <token tags="" struct="CV" type="WordSM">du</token>
+                <token tags="" struct="cKCcKCV" type="WordSM">langage</token>
+                <token tags="" struct="" type="SepSM">»</token>
+                <token tags="" struct="" type="SepSM">.</token>
+            </proposition>
+        </phrase>
+        <phrase tags="" struct="">
+            <proposition tags="" struct="">
+                <token tags="" struct="CVC" type="WordSM">les</token>
+                <token tags="" struct="cKCcVKCcVC" type="WordSM">linguistes</token>
+                <token tags="" struct="cKcCccVKcKCc" type="WordSM">construisent</token>
+                <token tags="" struct="cKCc" type="WordSM">donc</token>
+                <token tags="" struct="cK" type="WordSM">le</token>
+                <token tags="" struct="cKCcKc" type="WordSM">corpus</token>
+                <token tags="" struct="VC" type="WordSM">en</token>
+                <token tags="" struct="cKcKCcVKCcKCc" type="WordSM">sélectionnant</token>
+                <token tags="" struct="VC" type="WordSM">un</token>
+                <token tags="" struct="CVKC-KCcKCccV" type="WordSM">sous-ensemble</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="cKCcVC" type="WordSM">textes</token>
+                <token tags="" struct="" type="SepSM">,</token>
+            </proposition>
+            <proposition tags="" struct="">
+                <token tags="" struct="à" type="WordSM">à</token>
+                <token tags="" struct="C’" type="WordSM">l’</token>
+                <token tags="" struct="VKCV" type="WordSM">aide</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="CcKcKCVC" type="WordSM">critères</token>
+                <token tags="" struct="CcKcKcKCVVC" type="WordSM">spécifiques</token>
+                <token tags="" struct="CVKc" type="WordSM">pour</token>
+                <token tags="" struct="KCcKCcVKc" type="WordSM">effectuer</token>
+                <token tags="" struct="KCV" type="WordSM">une</token>
+                <token tags="" struct="KcKCV" type="WordSM">étude</token>
+                <token tags="" struct="cKCcVKCcKCVV" type="WordSM">linguistique</token>
+                <token tags="" struct="" type="SepSM">.</token>
+            </proposition>
+        </phrase>
+        <phrase tags="" struct="">
+            <proposition tags="" struct="">
+                <token tags="" struct="CV" type="WordSM">la</token>
+                <token tags="" struct="CVKCcVKc" type="WordSM">question</token>
+                <token tags="" struct="CV" type="WordSM">du</token>
+                <token tags="" struct="cKCcKc" type="WordSM">corpus</token>
+                <token tags="" struct="C’" type="WordSM">n’</token>
+                <token tags="" struct="KCc" type="WordSM">est</token>
+                <token tags="" struct="cKCc" type="WordSM">donc</token>
+                <token tags="" struct="cKc" type="WordSM">pas</token>
+                <token tags="" struct="cKCcKCVKCcV" type="WordSM">dissociable</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="C’" type="WordSM">l’</token>
+                <token tags="" struct="KcKCV" type="WordSM">usage</token>
+                <token tags="" struct="cKCcVKCcKCVV" type="WordSM">linguistique</token>
+                <token tags="" struct="CVV" type="WordSM">que</token>
+                <token tags="" struct="C’" type="WordSM">l’</token>
+                <token tags="" struct="VC" type="WordSM">on</token>
+                <token tags="" struct="VC" type="WordSM">en</token>
+                <token tags="" struct="CVKc" type="WordSM">fait</token>
+                <token tags="" struct="" type="SepSM">.</token>
+            </proposition>
+        </phrase>
+        <phrase tags="" struct="">
+            <proposition tags="" struct="">
+                <token tags="" struct="" type="SepSM"></token>
+                <token tags="" struct="" type="SepSM">
+</token>
+            </proposition>
+        </phrase>
+    </chunk>
+    <chunk tags="" struct="">
+        <phrase tags="" struct="">
+            <proposition tags="" struct="">
+                <token tags="" struct="VC" type="WordSM">un</token>
+                <token tags="" struct="VKCcV" type="WordSM">autre</token>
+                <token tags="" struct="CVKCc" type="WordSM">point</token>
+                <token tags="" struct="KCcKCcKCc" type="WordSM">important</token>
+                <token tags="" struct="cK’" type="WordSM">qu’</token>
+                <token tags="" struct="VC" type="WordSM">il</token>
+                <token tags="" struct="CVKc" type="WordSM">faut</token>
+                <token tags="" struct="cKCcVKCcKc" type="WordSM">mentionner</token>
+                <token tags="" struct="KCc" type="WordSM">est</token>
+                <token tags="" struct="cK" type="WordSM">le</token>
+                <token tags="" struct="cKCcKc" type="WordSM">format</token>
+                <token tags="" struct="CV" type="WordSM">du</token>
+                <token tags="" struct="cKCcKc" type="WordSM">corpus</token>
+                <token tags="" struct="CVK" type="WordSM">qui</token>
+                <token tags="" struct="KCcKCVKc" type="WordSM">apparaît</token>
+                <token tags="" struct="cKcKcKcKcKCc" type="WordSM">généralement</token>
+                <token tags="" struct="CVKc" type="WordSM">sous</token>
+                <token tags="" struct="cKCcV" type="WordSM">forme</token>
+                <token tags="" struct="KcKCccKcKCVV" type="WordSM">électronique</token>
+                <token tags="" struct="" type="SepSM">.</token>
+            </proposition>
+        </phrase>
+        <phrase tags="" struct="">
+            <proposition tags="" struct="">
+                <token tags="" struct="cKCccKcKcKCc" type="WordSM">concrètement</token>
+                <token tags="" struct="" type="SepSM">,</token>
+            </proposition>
+            <proposition tags="" struct="">
+                <token tags="" struct="cK" type="WordSM">le</token>
+                <token tags="" struct="cKCcKc" type="WordSM">corpus</token>
+                <token tags="" struct="KCc" type="WordSM">est</token>
+                <token tags="" struct="VC" type="WordSM">un</token>
+                <token tags="" struct="cKCcVKc" type="WordSM">fichier</token>
+                <token tags="" struct="VK" type="WordSM">ou</token>
+                <token tags="" struct="VC" type="WordSM">un</token>
+                <token tags="" struct="KCcKCccV" type="WordSM">ensemble</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="cKCcVKCc" type="WordSM">fichiers</token>
+                <token tags="" struct="KCcKCcKcKCVVC" type="WordSM">informatiques</token>
+                <token tags="" struct="cKcKcKcKCcVC" type="WordSM">manipulables</token>
+                <token tags="" struct="à" type="WordSM">à</token>
+                <token tags="" struct="C’" type="WordSM">l’</token>
+                <token tags="" struct="VKCV" type="WordSM">aide</token>
+                <token tags="" struct="C’" type="WordSM">d’</token>
+                <token tags="" struct="VKcKCc" type="WordSM">outils</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="CcVKcKcKCc" type="WordSM">traitement</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="cKCcKc" type="WordSM">corpus</token>
+                <token tags="" struct="" type="SepSM">.</token>
+            </proposition>
+        </phrase>
+        <phrase tags="" struct="">
+            <proposition tags="" struct="">
+                <token tags="" struct="cKc" type="WordSM">cet</token>
+                <token tags="" struct="KCcKCc" type="WordSM">aspect</token>
+                <token tags="" struct="KCcKCcKcKCVV" type="WordSM">informatique</token>
+                <token tags="" struct="C’" type="WordSM">n’</token>
+                <token tags="" struct="KCc" type="WordSM">est</token>
+                <token tags="" struct="cKc" type="WordSM">pas</token>
+                <token tags="" struct="KcKCcKcKCVV" type="WordSM">anecdotique</token>
+                <token tags="" struct="" type="SepSM">,</token>
+            </proposition>
+            <proposition tags="" struct="">
+                <token tags="" struct="cKc" type="WordSM">car</token>
+                <token tags="" struct="C’" type="WordSM">c’</token>
+                <token tags="" struct="KCc" type="WordSM">est</token>
+                <token tags="" struct="cKc" type="WordSM">par</token>
+                <token tags="" struct="cK" type="WordSM">le</token>
+                <token tags="" struct="CVKVC" type="WordSM">biais</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="C’" type="WordSM">l’</token>
+                <token tags="" struct="KCcKcKCVKc" type="WordSM">ordinateur</token>
+                <token tags="" struct="CVV" type="WordSM">que</token>
+                <token tags="" struct="C’" type="WordSM">l’</token>
+                <token tags="" struct="VC" type="WordSM">on</token>
+                <token tags="" struct="CVKCcV" type="WordSM">pourra</token>
+                <token tags="" struct="KCcKCcVKc" type="WordSM">effectuer</token>
+                <token tags="" struct="CVC" type="WordSM">les</token>
+                <token tags="" struct="CcVKcKcKCcc" type="WordSM">traitements</token>
+                <token tags="" struct="cKc" type="WordSM">sur</token>
+                <token tags="" struct="cK" type="WordSM">le</token>
+                <token tags="" struct="cKCcKc" type="WordSM">corpus</token>
+                <token tags="" struct="" type="SepSM">,</token>
+            </proposition>
+            <proposition tags="" struct="">
+                <token tags="" struct="cKc" type="WordSM">par</token>
+                <token tags="" struct="KcKCccV" type="WordSM">exemple</token>
+                <token tags="" struct="KCccVKCV" type="WordSM">extraire</token>
+                <token tags="" struct="CVC" type="WordSM">les</token>
+                <token tags="" struct="KCcKCcKCcVC" type="WordSM">occurrences</token>
+                <token tags="" struct="VC" type="WordSM">en</token>
+                <token tags="" struct="cKCcKCcV" type="WordSM">contexte</token>
+                <token tags="" struct="C’" type="WordSM">d’</token>
+                <token tags="" struct="KCV" type="WordSM">une</token>
+                <token tags="" struct="KCccKCcVKc" type="WordSM">expression</token>
+                <token tags="" struct="" type="SepSM">,</token>
+            </proposition>
+            <proposition tags="" struct="">
+                <token tags="" struct="cKCcV" type="WordSM">comme</token>
+                <token tags="" struct="CVKCVC" type="WordSM">toutes</token>
+                <token tags="" struct="CVC" type="WordSM">les</token>
+                <token tags="" struct="KCcKCcKCcVC" type="WordSM">occurrences</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="C’" type="WordSM">l’</token>
+                <token tags="" struct="KCccKCcVKc" type="WordSM">expression</token>
+                <token tags="" struct="cKCcKCc" type="WordSM">comment</token>
+                <token tags="" struct="cKCVKC-CV" type="WordSM">dirais-je</token>
+                <token tags="" struct="cKCc" type="WordSM">dans</token>
+                <token tags="" struct="cK" type="WordSM">le</token>
+                <token tags="" struct="cKCcKc" type="WordSM">corpus</token>
+                <token tags="" struct="CV" type="WordSM">du</token>
+                <token tags="" struct="CcKCcVKc" type="WordSM">français</token>
+                <token tags="" struct="cKCcK" type="WordSM">parlé</token>
+                <token tags="" struct="cKcKCVKc" type="WordSM">parisien</token>
+                <token tags="" struct="VK" type="WordSM">ou</token>
+                <token tags="" struct="cKcKcKc" type="WordSM">repérer</token>
+                <token tags="" struct="CVC" type="WordSM">les</token>
+                <token tags="" struct="cKCc" type="WordSM">noms</token>
+                <token tags="" struct="CVC" type="WordSM">les</token>
+                <token tags="" struct="CcKc" type="WordSM">plus</token>
+                <token tags="" struct="CcKCVKCcc" type="WordSM">fréquents</token>
+                <token tags="" struct="cKCc" type="WordSM">dans</token>
+                <token tags="" struct="VC" type="WordSM">un</token>
+                <token tags="" struct="cKCcKc" type="WordSM">corpus</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="CcKCcVKc" type="WordSM">français</token>
+                <token tags="" struct="CcVKCcKcKCVV" type="WordSM">scientifique</token>
+                <token tags="" struct="cKCcV" type="WordSM">comme</token>
+                <token tags="" struct="CcVKCcKCc" type="WordSM">scientext</token>
+                <token tags="" struct="" type="SepSM">,</token>
+            </proposition>
+            <proposition tags="" struct="">
+                <token tags="" struct="cKCcV" type="WordSM">comme</token>
+                <token tags="" struct="VC" type="WordSM">on</token>
+                <token tags="" struct="CVKc" type="WordSM">peut</token>
+                <token tags="" struct="cK" type="WordSM">le</token>
+                <token tags="" struct="CVKc" type="WordSM">voir</token>
+                <token tags="" struct="cKCc" type="WordSM">dans</token>
+                <token tags="" struct="CVC" type="WordSM">les</token>
+                <token tags="" struct="cKCVVC" type="WordSM">copies</token>
+                <token tags="" struct="C’" type="WordSM">d’</token>
+                <token tags="" struct="KCcKc" type="WordSM">écran</token>
+                <token tags="" struct="cK-CKCcVKc" type="WordSM">ci-dessous</token>
+                <token tags="" struct="" type="SepSM">:</token>
+            </proposition>
+            <proposition tags="" struct="">
+                <token tags="" struct="CVC" type="WordSM">les</token>
+                <token tags="" struct="cKCcKc" type="WordSM">corpus</token>
+                <token tags="" struct="cK" type="WordSM">ne</token>
+                <token tags="" struct="cKCc" type="WordSM">sont</token>
+                <token tags="" struct="cKc" type="WordSM">pas</token>
+                <token tags="" struct="cKCccKcKcKCc" type="WordSM">complètement</token>
+                <token tags="" struct="CVKCVKVC" type="WordSM">nouveaux</token>
+                <token tags="" struct="VC" type="WordSM">en</token>
+                <token tags="" struct="cKCcVKCcKCVV" type="WordSM">linguistique</token>
+                <token tags="" struct="" type="SepSM">.</token>
+            </proposition>
+        </phrase>
+        <phrase tags="" struct="">
+            <proposition tags="" struct="">
+                <token tags="" struct="KCc" type="WordSM">ils</token>
+                <token tags="" struct="KCc" type="WordSM">ont</token>
+                <token tags="" struct="CVKCVKCc" type="WordSM">toujours</token>
+                <token tags="" struct="KcKCcK" type="WordSM">existé</token>
+                <token tags="" struct="cKCc" type="WordSM">dans</token>
+                <token tags="" struct="C’" type="WordSM">l’</token>
+                <token tags="" struct="KcKCV" type="WordSM">étude</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="CV" type="WordSM">la</token>
+                <token tags="" struct="cKCcVV" type="WordSM">langue</token>
+                <token tags="" struct="" type="SepSM">.</token>
+            </proposition>
+        </phrase>
+        <phrase tags="" struct="">
+            <proposition tags="" struct="">
+                <token tags="" struct="VC" type="WordSM">en</token>
+                <token tags="" struct="KCcKc" type="WordSM">effet</token>
+                <token tags="" struct="" type="SepSM">,</token>
+            </proposition>
+            <proposition tags="" struct="">
+                <token tags="" struct="CVKc" type="WordSM">pour</token>
+                <token tags="" struct="KcKCVKc" type="WordSM">étudier</token>
+                <token tags="" struct="KCV" type="WordSM">une</token>
+                <token tags="" struct="cKCVKcK" type="WordSM">variété</token>
+                <token tags="" struct="cK" type="WordSM">de</token>
+                <token tags="" struct="cKCcVV" type="WordSM">langue</token>
+                <token tags="" struct="CVV" type="WordSM">que</token>
+                <token tags="" struct="C’" type="WordSM">l’</token>
+                <token tags="" struct="VC" type="WordSM">on</token>
+                <token tags="" struct="cK" type="WordSM">ne</token>
+                <token tags="" struct="cKCcV" type="WordSM">parle</token>
+                <token tags="" struct="cKc" type="WordSM">pas</token>
+                <token tags="" struct="" type="SepSM">,</token>
+            </proposition>
+            <proposition tags="" struct="">
+                <token tags="" struct="VC" type="WordSM">il</token>
+                <token tags="" struct="CVKc" type="WordSM">faut</token>
+                <token tags="" struct="CVKc" type="WordSM">bien</token>
+                <token tags="" struct="C’" type="WordSM">s’</token>
+                <token tags="" struct="KCcVKVC" type="WordSM">appuyer</token>
+                <token tags="" struct="cKc" type="WordSM">sur</token>
+                <token tags="" struct="CVC" type="WordSM">des</token>
+                <token tags="" struct="CcKcKCcVKCc" type="WordSM">productions</token>
+                <token tags="" struct="cKCcKCVKCVC" type="WordSM">langagières</token>
+                <token tags="" struct="KcKCcKCcVC" type="WordSM">existantes</token>
+                <token tags="" struct="" type="SepSM">.</token>
+            </proposition>
+        </phrase>
+        <phrase tags="" struct="">
+            <proposition tags="" struct="">
+                <token tags="" struct="" type="SepSM">
+</token>
+            </proposition>
+        </phrase>
+    </chunk>
+</SegmentedTextSM>

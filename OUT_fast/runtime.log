@@ -1,0 +1,1033 @@
+###################################################
+DEBUT DU TRAITEMENT.
+
+[EXCL1]	Fichier 'mots_outils.txt' valide.
+[EXCL2]	Fichier 'verbes.txt' valide.
+[TXT0]	Tokenisation : Nous allons nous intéresser dans ce cours à la linguistique de corpus. Mais avant d’aborder cette discipline ou cette approche, il faut évidemment commencer par se demander ce qu’est un corpus. Le Trésor de la Langue Française, le grand dictionnaire de référence du français, définit les corpus dans le domaine de la linguistique comme un « Ensemble de textes établi selon un principe de documentation exhaustive, un critère thématique ou exemplaire en vue de leur étude linguistique ». John Sinclair (1991), un linguiste britannique influent dans le domaine, l’a défini quant à lui comme «une collection de données langagières sélectionnées et organisées selon des critères linguistiques explicites pour servir d'échantillon du langage ». Les linguistes construisent donc le corpus en sélectionnant un sous-ensemble de textes, à l’aide de critères spécifiques pour effectuer une étude linguistique. La question du corpus n’est donc pas dissociable de l’usage linguistique que l’on en fait. [TXT1]	Tokenisation : Un autre point important qu’il faut mentionner est le format du corpus qui apparaît généralement sous forme électronique. Concrètement, le corpus est un fichier ou un ensemble de fichiers informatiques manipulables à l’aide d’outils de traitement de corpus. Cet aspect informatique n’est pas anecdotique, car c’est par le biais de l’ordinateur que l’on pourra effectuer les traitements sur le corpus, par exemple extraire les occurrences en contexte d’une expression, comme toutes les occurrences de l’expression comment dirais-je dans le Corpus du Français Parlé Parisien ou repérer les noms les plus fréquents dans un corpus de français scientifique comme Scientext, comme on peut le voir dans les copies d’écran ci-dessous : Les corpus ne sont pas complètement nouveaux en linguistique. Ils ont toujours existé dans l’étude de la langue. En effet, pour étudier une variété de langue que l’on ne parle pas, il faut bien s’appuyer sur des productions langagières existantes. [TXT2]	Tokenisation : Nous allons nous intéresser dans ce cours à la linguistique de corpus. Mais avant d’aborder cette discipline ou cette approche, il faut évidemment commencer par se demander ce qu’est un corpus. Le Trésor de la Langue Française, le grand dictionnaire de référence du français, définit les corpus dans le domaine de la linguistique comme un « Ensemble de textes établi selon un principe de documentation exhaustive, un critère thématique ou exemplaire en vue de leur étude linguistique ». John Sinclair (1991), un linguiste britannique influent dans le domaine, l’a défini quant à lui comme «une collection de données langagières sélectionnées et organisées selon des critères linguistiques explicites pour servir d'échantillon du langage ». Les linguistes construisent donc le corpus en sélectionnant un sous-ensemble de textes, à l’aide de critères spécifiques pour effectuer une étude linguistique. La question du corpus n’est donc pas dissociable de l’usage linguistique que l’on en fait. 
+Un autre point important qu’il faut mentionner est le format du corpus qui apparaît généralement sous forme électronique. Concrètement, le corpus est un fichier ou un ensemble de fichiers informatiques manipulables à l’aide d’outils de traitement de corpus. Cet aspect informatique n’est pas anecdotique, car c’est par le biais de l’ordinateur que l’on pourra effectuer les traitements sur le corpus, par exemple extraire les occurrences en contexte d’une expression, comme toutes les occurrences de l’expression comment dirais-je dans le Corpus du Français Parlé Parisien ou repérer les noms les plus fréquents dans un corpus de français scientifique comme Scientext, comme on peut le voir dans les copies d’écran ci-dessous : Les corpus ne sont pas complètement nouveaux en linguistique. Ils ont toujours existé dans l’étude de la langue. En effet, pour étudier une variété de langue que l’on ne parle pas, il faut bien s’appuyer sur des productions langagières existantes. Fichier de filtre fourni. Tokenisation : Terminée. Tokens : 88 pour 381 caractères.
+Fichier de filtre fourni. Tokenisation : Terminée. Tokens : 9 pour 38 caractères.
+
+----Démarrage du processus de comparaison ----
+Exclusion des 102 tokens blacklistés.
+30 tokens exclus dans le texte 0.
+32 tokens exclus dans le texte 1.
+42 tokens exclus dans le texte 2.
+
+
+----Recherche du vocabulaire commun (0-1) : ----
+>	(   3/ 106) 	Nouveau token commun trouvé : 'linguistique'
+>	(   4/ 106) 	Nouveau token commun trouvé : 'corpus'
+>	(   5/ 106) 	Nouveau token commun trouvé : '.'
+>	(   6/ 106) 	Nouveau token commun trouvé : 'd’'
+>	(  10/ 106) 	Nouveau token commun trouvé : ','
+>	(  11/ 106) 	Nouveau token commun trouvé : 'faut'
+>	(  15/ 106) 	Nouveau token commun trouvé : 'qu’'
+>	(  19/ 106) 	Nouveau token commun trouvé : 'langue'
+>	(  25/ 106) 	Nouveau token commun trouvé : 'français'
+>	(  32/ 106) 	Nouveau token commun trouvé : 'ensemble'
+>	(  44/ 106) 	Nouveau token commun trouvé : 'étude'
+>	(  59/ 106) 	Nouveau token commun trouvé : 'l’'
+>	(  66/ 106) 	Nouveau token commun trouvé : 'langagières'
+>	(  88/ 106) 	Nouveau token commun trouvé : 'aide'
+>	(  91/ 106) 	Nouveau token commun trouvé : 'effectuer'
+>	(  97/ 106) 	Nouveau token commun trouvé : 'n’'
+
+
+----Recherche du vocabulaire commun (0-2) : ----
+>	(   0/ 106) 	Nouveau token commun trouvé : 'allons'
+>	(   1/ 106) 	Nouveau token commun trouvé : 'intéresser'
+>	(   2/ 106) 	Nouveau token commun trouvé : 'cours'
+>	(   3/ 106) 	Nouveau token commun trouvé : 'linguistique'
+>	(   4/ 106) 	Nouveau token commun trouvé : 'corpus'
+>	(   5/ 106) 	Nouveau token commun trouvé : '.'
+>	(   6/ 106) 	Nouveau token commun trouvé : 'd’'
+>	(   7/ 106) 	Nouveau token commun trouvé : 'aborder'
+>	(   8/ 106) 	Nouveau token commun trouvé : 'discipline'
+>	(   9/ 106) 	Nouveau token commun trouvé : 'approche'
+>	(  10/ 106) 	Nouveau token commun trouvé : ','
+>	(  11/ 106) 	Nouveau token commun trouvé : 'faut'
+>	(  12/ 106) 	Nouveau token commun trouvé : 'évidemment'
+>	(  13/ 106) 	Nouveau token commun trouvé : 'commencer'
+>	(  14/ 106) 	Nouveau token commun trouvé : 'demander'
+>	(  15/ 106) 	Nouveau token commun trouvé : 'qu’'
+>	(  18/ 106) 	Nouveau token commun trouvé : 'trésor'
+>	(  19/ 106) 	Nouveau token commun trouvé : 'langue'
+>	(  20/ 106) 	Nouveau token commun trouvé : 'française'
+>	(  22/ 106) 	Nouveau token commun trouvé : 'grand'
+>	(  23/ 106) 	Nouveau token commun trouvé : 'dictionnaire'
+>	(  24/ 106) 	Nouveau token commun trouvé : 'référence'
+>	(  25/ 106) 	Nouveau token commun trouvé : 'français'
+>	(  27/ 106) 	Nouveau token commun trouvé : 'définit'
+>	(  29/ 106) 	Nouveau token commun trouvé : 'domaine'
+>	(  31/ 106) 	Nouveau token commun trouvé : '«'
+>	(  32/ 106) 	Nouveau token commun trouvé : 'ensemble'
+>	(  33/ 106) 	Nouveau token commun trouvé : 'textes'
+>	(  34/ 106) 	Nouveau token commun trouvé : 'établi'
+>	(  35/ 106) 	Nouveau token commun trouvé : 'selon'
+>	(  36/ 106) 	Nouveau token commun trouvé : 'principe'
+>	(  37/ 106) 	Nouveau token commun trouvé : 'documentation'
+>	(  38/ 106) 	Nouveau token commun trouvé : 'exhaustive'
+>	(  40/ 106) 	Nouveau token commun trouvé : 'critère'
+>	(  41/ 106) 	Nouveau token commun trouvé : 'thématique'
+>	(  42/ 106) 	Nouveau token commun trouvé : 'exemplaire'
+>	(  43/ 106) 	Nouveau token commun trouvé : 'vue'
+>	(  44/ 106) 	Nouveau token commun trouvé : 'étude'
+>	(  46/ 106) 	Nouveau token commun trouvé : '»'
+>	(  48/ 106) 	Nouveau token commun trouvé : 'john'
+>	(  49/ 106) 	Nouveau token commun trouvé : 'sinclair'
+>	(  50/ 106) 	Nouveau token commun trouvé : '('
+>	(  51/ 106) 	Nouveau token commun trouvé : '1991'
+>	(  52/ 106) 	Nouveau token commun trouvé : ')'
+>	(  54/ 106) 	Nouveau token commun trouvé : 'linguiste'
+>	(  55/ 106) 	Nouveau token commun trouvé : 'britannique'
+>	(  56/ 106) 	Nouveau token commun trouvé : 'influent'
+>	(  59/ 106) 	Nouveau token commun trouvé : 'l’'
+>	(  60/ 106) 	Nouveau token commun trouvé : 'défini'
+>	(  61/ 106) 	Nouveau token commun trouvé : 'quant'
+>	(  62/ 106) 	Nouveau token commun trouvé : 'lui'
+>	(  64/ 106) 	Nouveau token commun trouvé : 'collection'
+>	(  65/ 106) 	Nouveau token commun trouvé : 'données'
+>	(  66/ 106) 	Nouveau token commun trouvé : 'langagières'
+>	(  67/ 106) 	Nouveau token commun trouvé : 'sélectionnées'
+>	(  68/ 106) 	Nouveau token commun trouvé : 'organisées'
+>	(  70/ 106) 	Nouveau token commun trouvé : 'critères'
+>	(  71/ 106) 	Nouveau token commun trouvé : 'linguistiques'
+>	(  72/ 106) 	Nouveau token commun trouvé : 'explicites'
+>	(  73/ 106) 	Nouveau token commun trouvé : 'servir'
+>	(  74/ 106) 	Nouveau token commun trouvé : 'd''
+>	(  75/ 106) 	Nouveau token commun trouvé : 'échantillon'
+>	(  76/ 106) 	Nouveau token commun trouvé : 'langage'
+>	(  79/ 106) 	Nouveau token commun trouvé : 'linguistes'
+>	(  80/ 106) 	Nouveau token commun trouvé : 'construisent'
+>	(  81/ 106) 	Nouveau token commun trouvé : 'donc'
+>	(  83/ 106) 	Nouveau token commun trouvé : 'sélectionnant'
+>	(  84/ 106) 	Nouveau token commun trouvé : 'sous-ensemble'
+>	(  88/ 106) 	Nouveau token commun trouvé : 'aide'
+>	(  90/ 106) 	Nouveau token commun trouvé : 'spécifiques'
+>	(  91/ 106) 	Nouveau token commun trouvé : 'effectuer'
+>	(  95/ 106) 	Nouveau token commun trouvé : 'question'
+>	(  97/ 106) 	Nouveau token commun trouvé : 'n’'
+>	(  99/ 106) 	Nouveau token commun trouvé : 'dissociable'
+>	( 101/ 106) 	Nouveau token commun trouvé : 'usage'
+>	( 104/ 106) 	Nouveau token commun trouvé : 'fait'
+
+
+----Recherche du vocabulaire commun (1-2) : ----
+>	(   0/ 101) 	Nouveau token commun trouvé : 'autre'
+>	(   1/ 101) 	Nouveau token commun trouvé : 'point'
+>	(   2/ 101) 	Nouveau token commun trouvé : 'important'
+>	(   3/ 101) 	Nouveau token commun trouvé : 'qu’'
+>	(   4/ 101) 	Nouveau token commun trouvé : 'faut'
+>	(   5/ 101) 	Nouveau token commun trouvé : 'mentionner'
+>	(   6/ 101) 	Nouveau token commun trouvé : 'format'
+>	(   7/ 101) 	Nouveau token commun trouvé : 'corpus'
+>	(   8/ 101) 	Nouveau token commun trouvé : 'apparaît'
+>	(   9/ 101) 	Nouveau token commun trouvé : 'généralement'
+>	(  10/ 101) 	Nouveau token commun trouvé : 'forme'
+>	(  11/ 101) 	Nouveau token commun trouvé : 'électronique'
+>	(  12/ 101) 	Nouveau token commun trouvé : '.'
+>	(  13/ 101) 	Nouveau token commun trouvé : 'concrètement'
+>	(  14/ 101) 	Nouveau token commun trouvé : ','
+>	(  16/ 101) 	Nouveau token commun trouvé : 'fichier'
+>	(  17/ 101) 	Nouveau token commun trouvé : 'ensemble'
+>	(  18/ 101) 	Nouveau token commun trouvé : 'fichiers'
+>	(  19/ 101) 	Nouveau token commun trouvé : 'informatiques'
+>	(  20/ 101) 	Nouveau token commun trouvé : 'manipulables'
+>	(  21/ 101) 	Nouveau token commun trouvé : 'l’'
+>	(  22/ 101) 	Nouveau token commun trouvé : 'aide'
+>	(  23/ 101) 	Nouveau token commun trouvé : 'd’'
+>	(  24/ 101) 	Nouveau token commun trouvé : 'outils'
+>	(  25/ 101) 	Nouveau token commun trouvé : 'traitement'
+>	(  28/ 101) 	Nouveau token commun trouvé : 'cet'
+>	(  29/ 101) 	Nouveau token commun trouvé : 'aspect'
+>	(  30/ 101) 	Nouveau token commun trouvé : 'informatique'
+>	(  31/ 101) 	Nouveau token commun trouvé : 'n’'
+>	(  32/ 101) 	Nouveau token commun trouvé : 'anecdotique'
+>	(  34/ 101) 	Nouveau token commun trouvé : 'c’'
+>	(  35/ 101) 	Nouveau token commun trouvé : 'biais'
+>	(  37/ 101) 	Nouveau token commun trouvé : 'ordinateur'
+>	(  39/ 101) 	Nouveau token commun trouvé : 'pourra'
+>	(  40/ 101) 	Nouveau token commun trouvé : 'effectuer'
+>	(  41/ 101) 	Nouveau token commun trouvé : 'traitements'
+>	(  44/ 101) 	Nouveau token commun trouvé : 'exemple'
+>	(  45/ 101) 	Nouveau token commun trouvé : 'extraire'
+>	(  46/ 101) 	Nouveau token commun trouvé : 'occurrences'
+>	(  47/ 101) 	Nouveau token commun trouvé : 'contexte'
+>	(  49/ 101) 	Nouveau token commun trouvé : 'expression'
+>	(  51/ 101) 	Nouveau token commun trouvé : 'toutes'
+>	(  55/ 101) 	Nouveau token commun trouvé : 'dirais-je'
+>	(  57/ 101) 	Nouveau token commun trouvé : 'français'
+>	(  58/ 101) 	Nouveau token commun trouvé : 'parlé'
+>	(  59/ 101) 	Nouveau token commun trouvé : 'parisien'
+>	(  60/ 101) 	Nouveau token commun trouvé : 'repérer'
+>	(  61/ 101) 	Nouveau token commun trouvé : 'noms'
+>	(  62/ 101) 	Nouveau token commun trouvé : 'fréquents'
+>	(  65/ 101) 	Nouveau token commun trouvé : 'scientifique'
+>	(  66/ 101) 	Nouveau token commun trouvé : 'scientext'
+>	(  68/ 101) 	Nouveau token commun trouvé : 'peut'
+>	(  69/ 101) 	Nouveau token commun trouvé : 'voir'
+>	(  70/ 101) 	Nouveau token commun trouvé : 'copies'
+>	(  72/ 101) 	Nouveau token commun trouvé : 'écran'
+>	(  73/ 101) 	Nouveau token commun trouvé : 'ci-dessous'
+>	(  74/ 101) 	Nouveau token commun trouvé : ':'
+>	(  76/ 101) 	Nouveau token commun trouvé : 'sont'
+>	(  77/ 101) 	Nouveau token commun trouvé : 'complètement'
+>	(  78/ 101) 	Nouveau token commun trouvé : 'nouveaux'
+>	(  79/ 101) 	Nouveau token commun trouvé : 'linguistique'
+>	(  81/ 101) 	Nouveau token commun trouvé : 'existé'
+>	(  83/ 101) 	Nouveau token commun trouvé : 'étude'
+>	(  84/ 101) 	Nouveau token commun trouvé : 'langue'
+>	(  86/ 101) 	Nouveau token commun trouvé : 'effet'
+>	(  88/ 101) 	Nouveau token commun trouvé : 'étudier'
+>	(  89/ 101) 	Nouveau token commun trouvé : 'variété'
+>	(  92/ 101) 	Nouveau token commun trouvé : 'parle'
+>	(  95/ 101) 	Nouveau token commun trouvé : 's’'
+>	(  96/ 101) 	Nouveau token commun trouvé : 'appuyer'
+>	(  97/ 101) 	Nouveau token commun trouvé : 'productions'
+>	(  98/ 101) 	Nouveau token commun trouvé : 'langagières'
+>	(  99/ 101) 	Nouveau token commun trouvé : 'existantes'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'domaine'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : '«'
+	>	Doublon trouvé : 'selon'
+	>	Doublon trouvé : '»'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'textes'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'critères'
+	>	Doublon trouvé : 'étude'
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'donc'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'qu’'
+	>	Doublon trouvé : 'faut'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'ensemble'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'aide'
+	>	Doublon trouvé : 'd’'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'n’'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'effectuer'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'd’'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'occurrences'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'expression'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'français'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'français'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'd’'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'étude'
+	>	Doublon trouvé : 'langue'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'langue'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'faut'
+	>	Doublon trouvé : 'langagières'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'allons'
+	>	Doublon trouvé : 'intéresser'
+	>	Doublon trouvé : 'cours'
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'd’'
+	>	Doublon trouvé : 'aborder'
+	>	Doublon trouvé : 'discipline'
+	>	Doublon trouvé : 'approche'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'faut'
+	>	Doublon trouvé : 'évidemment'
+	>	Doublon trouvé : 'commencer'
+	>	Doublon trouvé : 'demander'
+	>	Doublon trouvé : 'qu’'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'trésor'
+	>	Doublon trouvé : 'langue'
+	>	Doublon trouvé : 'française'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'grand'
+	>	Doublon trouvé : 'dictionnaire'
+	>	Doublon trouvé : 'référence'
+	>	Doublon trouvé : 'français'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'définit'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'domaine'
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : '«'
+	>	Doublon trouvé : 'ensemble'
+	>	Doublon trouvé : 'textes'
+	>	Doublon trouvé : 'établi'
+	>	Doublon trouvé : 'selon'
+	>	Doublon trouvé : 'principe'
+	>	Doublon trouvé : 'documentation'
+	>	Doublon trouvé : 'exhaustive'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'critère'
+	>	Doublon trouvé : 'thématique'
+	>	Doublon trouvé : 'exemplaire'
+	>	Doublon trouvé : 'vue'
+	>	Doublon trouvé : 'étude'
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : '»'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'john'
+	>	Doublon trouvé : 'sinclair'
+	>	Doublon trouvé : '('
+	>	Doublon trouvé : '1991'
+	>	Doublon trouvé : ')'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'linguiste'
+	>	Doublon trouvé : 'britannique'
+	>	Doublon trouvé : 'influent'
+	>	Doublon trouvé : 'domaine'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'défini'
+	>	Doublon trouvé : 'quant'
+	>	Doublon trouvé : 'lui'
+	>	Doublon trouvé : '«'
+	>	Doublon trouvé : 'collection'
+	>	Doublon trouvé : 'données'
+	>	Doublon trouvé : 'langagières'
+	>	Doublon trouvé : 'sélectionnées'
+	>	Doublon trouvé : 'organisées'
+	>	Doublon trouvé : 'selon'
+	>	Doublon trouvé : 'critères'
+	>	Doublon trouvé : 'linguistiques'
+	>	Doublon trouvé : 'explicites'
+	>	Doublon trouvé : 'servir'
+	>	Doublon trouvé : 'd''
+	>	Doublon trouvé : 'échantillon'
+	>	Doublon trouvé : 'langage'
+	>	Doublon trouvé : '»'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'linguistes'
+	>	Doublon trouvé : 'construisent'
+	>	Doublon trouvé : 'donc'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'sélectionnant'
+	>	Doublon trouvé : 'sous-ensemble'
+	>	Doublon trouvé : 'textes'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'aide'
+	>	Doublon trouvé : 'critères'
+	>	Doublon trouvé : 'spécifiques'
+	>	Doublon trouvé : 'effectuer'
+	>	Doublon trouvé : 'étude'
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'question'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'n’'
+	>	Doublon trouvé : 'donc'
+	>	Doublon trouvé : 'dissociable'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'usage'
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'fait'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'autre'
+	>	Doublon trouvé : 'point'
+	>	Doublon trouvé : 'important'
+	>	Doublon trouvé : 'qu’'
+	>	Doublon trouvé : 'faut'
+	>	Doublon trouvé : 'mentionner'
+	>	Doublon trouvé : 'format'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'apparaît'
+	>	Doublon trouvé : 'généralement'
+	>	Doublon trouvé : 'forme'
+	>	Doublon trouvé : 'électronique'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'concrètement'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'fichier'
+	>	Doublon trouvé : 'ensemble'
+	>	Doublon trouvé : 'fichiers'
+	>	Doublon trouvé : 'informatiques'
+	>	Doublon trouvé : 'manipulables'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'aide'
+	>	Doublon trouvé : 'd’'
+	>	Doublon trouvé : 'outils'
+	>	Doublon trouvé : 'traitement'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'cet'
+	>	Doublon trouvé : 'aspect'
+	>	Doublon trouvé : 'informatique'
+	>	Doublon trouvé : 'n’'
+	>	Doublon trouvé : 'anecdotique'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'c’'
+	>	Doublon trouvé : 'biais'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'ordinateur'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'pourra'
+	>	Doublon trouvé : 'effectuer'
+	>	Doublon trouvé : 'traitements'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'exemple'
+	>	Doublon trouvé : 'extraire'
+	>	Doublon trouvé : 'occurrences'
+	>	Doublon trouvé : 'contexte'
+	>	Doublon trouvé : 'd’'
+	>	Doublon trouvé : 'expression'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'toutes'
+	>	Doublon trouvé : 'occurrences'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'expression'
+	>	Doublon trouvé : 'dirais-je'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'français'
+	>	Doublon trouvé : 'parlé'
+	>	Doublon trouvé : 'parisien'
+	>	Doublon trouvé : 'repérer'
+	>	Doublon trouvé : 'noms'
+	>	Doublon trouvé : 'fréquents'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'français'
+	>	Doublon trouvé : 'scientifique'
+	>	Doublon trouvé : 'scientext'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'peut'
+	>	Doublon trouvé : 'voir'
+	>	Doublon trouvé : 'copies'
+	>	Doublon trouvé : 'd’'
+	>	Doublon trouvé : 'écran'
+	>	Doublon trouvé : 'ci-dessous'
+	>	Doublon trouvé : ':'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'sont'
+	>	Doublon trouvé : 'complètement'
+	>	Doublon trouvé : 'nouveaux'
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'existé'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'étude'
+	>	Doublon trouvé : 'langue'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'effet'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'étudier'
+	>	Doublon trouvé : 'variété'
+	>	Doublon trouvé : 'langue'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'parle'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'faut'
+	>	Doublon trouvé : 's’'
+	>	Doublon trouvé : 'appuyer'
+	>	Doublon trouvé : 'productions'
+	>	Doublon trouvé : 'langagières'
+	>	Doublon trouvé : 'existantes'
+	>	Doublon trouvé : '.'
+
+
+----Suppression des doublons et comptage des occurences : ----
+
+	# Texte 0 : 
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'domaine'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : '«'
+	>	Doublon trouvé : 'selon'
+	>	Doublon trouvé : '»'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'textes'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'critères'
+	>	Doublon trouvé : 'étude'
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'donc'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : '.'
+
+
+----Construction des vecteurs : ----
+
+	# Texte 0 : 
+	>	'allons         ' présent.
+	>	'intéresser     ' présent.
+	>	'cours          ' présent.
+	>	'linguistique   ' présent.
+	>	'corpus         ' présent.
+	>	'.              ' présent.
+	>	'd’             ' présent.
+	>	'aborder        ' présent.
+	>	'discipline     ' présent.
+	>	'approche       ' présent.
+	>	',              ' présent.
+	>	'faut           ' présent.
+	>	'évidemment     ' présent.
+	>	'commencer      ' présent.
+	>	'demander       ' présent.
+	>	'qu’            ' présent.
+	>	'trésor         ' présent.
+	>	'langue         ' présent.
+	>	'française      ' présent.
+	>	'grand          ' présent.
+	>	'dictionnaire   ' présent.
+	>	'référence      ' présent.
+	>	'français       ' présent.
+	>	'définit        ' présent.
+	>	'domaine        ' présent.
+	>	'«              ' présent.
+	>	'ensemble       ' présent.
+	>	'textes         ' présent.
+	>	'établi         ' présent.
+	>	'selon          ' présent.
+	>	'principe       ' présent.
+	>	'documentation  ' présent.
+	>	'exhaustive     ' présent.
+	>	'critère        ' présent.
+	>	'thématique     ' présent.
+	>	'exemplaire     ' présent.
+	>	'vue            ' présent.
+	>	'étude          ' présent.
+	>	'»              ' présent.
+	>	'john           ' présent.
+	>	'sinclair       ' présent.
+	>	'(              ' présent.
+	>	'1991           ' présent.
+	>	')              ' présent.
+	>	'linguiste      ' présent.
+	>	'britannique    ' présent.
+	>	'influent       ' présent.
+	>	'l’             ' présent.
+	>	'défini         ' présent.
+	>	'quant          ' présent.
+	>	'lui            ' présent.
+	>	'collection     ' présent.
+	>	'données        ' présent.
+	>	'langagières    ' présent.
+	>	'sélectionnées  ' présent.
+	>	'organisées     ' présent.
+	>	'critères       ' présent.
+	>	'linguistiques  ' présent.
+	>	'explicites     ' présent.
+	>	'servir         ' présent.
+	>	'd'             ' présent.
+	>	'échantillon    ' présent.
+	>	'langage        ' présent.
+	>	'linguistes     ' présent.
+	>	'construisent   ' présent.
+	>	'donc           ' présent.
+	>	'sélectionnant  ' présent.
+	>	'sous-ensemble  ' présent.
+	>	'aide           ' présent.
+	>	'spécifiques    ' présent.
+	>	'effectuer      ' présent.
+	>	'question       ' présent.
+	>	'n’             ' présent.
+	>	'dissociable    ' présent.
+	>	'usage          ' présent.
+	>	'fait           ' présent.
+	>	'autre          ' NON présent.
+	>	'point          ' NON présent.
+	>	'important      ' NON présent.
+	>	'mentionner     ' NON présent.
+	>	'format         ' NON présent.
+	>	'apparaît       ' NON présent.
+	>	'généralement   ' NON présent.
+	>	'forme          ' NON présent.
+	>	'électronique   ' NON présent.
+	>	'concrètement   ' NON présent.
+	>	'fichier        ' NON présent.
+	>	'fichiers       ' NON présent.
+	>	'informatiques  ' NON présent.
+	>	'manipulables   ' NON présent.
+	>	'outils         ' NON présent.
+	>	'traitement     ' NON présent.
+	>	'cet            ' NON présent.
+	>	'aspect         ' NON présent.
+	>	'informatique   ' NON présent.
+	>	'anecdotique    ' NON présent.
+	>	'c’             ' NON présent.
+	>	'biais          ' NON présent.
+	>	'ordinateur     ' NON présent.
+	>	'pourra         ' NON présent.
+	>	'traitements    ' NON présent.
+	>	'exemple        ' NON présent.
+	>	'extraire       ' NON présent.
+	>	'occurrences    ' NON présent.
+	>	'contexte       ' NON présent.
+	>	'expression     ' NON présent.
+	>	'toutes         ' NON présent.
+	>	'dirais-je      ' NON présent.
+	>	'parlé          ' NON présent.
+	>	'parisien       ' NON présent.
+	>	'repérer        ' NON présent.
+	>	'noms           ' NON présent.
+	>	'fréquents      ' NON présent.
+	>	'scientifique   ' NON présent.
+	>	'scientext      ' NON présent.
+	>	'peut           ' NON présent.
+	>	'voir           ' NON présent.
+	>	'copies         ' NON présent.
+	>	'écran          ' NON présent.
+	>	'ci-dessous     ' NON présent.
+	>	':              ' NON présent.
+	>	'sont           ' NON présent.
+	>	'complètement   ' NON présent.
+	>	'nouveaux       ' NON présent.
+	>	'existé         ' NON présent.
+	>	'effet          ' NON présent.
+	>	'étudier        ' NON présent.
+	>	'variété        ' NON présent.
+	>	'parle          ' NON présent.
+	>	's’             ' NON présent.
+	>	'appuyer        ' NON présent.
+	>	'productions    ' NON présent.
+	>	'existantes     ' NON présent.
+
+
+----Suppression des doublons et comptage des occurences : ----
+
+	# Texte 1 : 
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'd’'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'occurrences'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'expression'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'français'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'd’'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'langue'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'faut'
+	>	Doublon trouvé : '.'
+
+
+----Construction des vecteurs : ----
+
+	# Texte 1 : 
+	>	'allons         ' NON présent.
+	>	'intéresser     ' NON présent.
+	>	'cours          ' NON présent.
+	>	'linguistique   ' présent.
+	>	'corpus         ' présent.
+	>	'.              ' présent.
+	>	'd’             ' présent.
+	>	'aborder        ' NON présent.
+	>	'discipline     ' NON présent.
+	>	'approche       ' NON présent.
+	>	',              ' présent.
+	>	'faut           ' présent.
+	>	'évidemment     ' NON présent.
+	>	'commencer      ' NON présent.
+	>	'demander       ' NON présent.
+	>	'qu’            ' présent.
+	>	'trésor         ' NON présent.
+	>	'langue         ' présent.
+	>	'française      ' NON présent.
+	>	'grand          ' NON présent.
+	>	'dictionnaire   ' NON présent.
+	>	'référence      ' NON présent.
+	>	'français       ' présent.
+	>	'définit        ' NON présent.
+	>	'domaine        ' NON présent.
+	>	'«              ' NON présent.
+	>	'ensemble       ' présent.
+	>	'textes         ' NON présent.
+	>	'établi         ' NON présent.
+	>	'selon          ' NON présent.
+	>	'principe       ' NON présent.
+	>	'documentation  ' NON présent.
+	>	'exhaustive     ' NON présent.
+	>	'critère        ' NON présent.
+	>	'thématique     ' NON présent.
+	>	'exemplaire     ' NON présent.
+	>	'vue            ' NON présent.
+	>	'étude          ' présent.
+	>	'»              ' NON présent.
+	>	'john           ' NON présent.
+	>	'sinclair       ' NON présent.
+	>	'(              ' NON présent.
+	>	'1991           ' NON présent.
+	>	')              ' NON présent.
+	>	'linguiste      ' NON présent.
+	>	'britannique    ' NON présent.
+	>	'influent       ' NON présent.
+	>	'l’             ' présent.
+	>	'défini         ' NON présent.
+	>	'quant          ' NON présent.
+	>	'lui            ' NON présent.
+	>	'collection     ' NON présent.
+	>	'données        ' NON présent.
+	>	'langagières    ' présent.
+	>	'sélectionnées  ' NON présent.
+	>	'organisées     ' NON présent.
+	>	'critères       ' NON présent.
+	>	'linguistiques  ' NON présent.
+	>	'explicites     ' NON présent.
+	>	'servir         ' NON présent.
+	>	'd'             ' NON présent.
+	>	'échantillon    ' NON présent.
+	>	'langage        ' NON présent.
+	>	'linguistes     ' NON présent.
+	>	'construisent   ' NON présent.
+	>	'donc           ' NON présent.
+	>	'sélectionnant  ' NON présent.
+	>	'sous-ensemble  ' NON présent.
+	>	'aide           ' présent.
+	>	'spécifiques    ' NON présent.
+	>	'effectuer      ' présent.
+	>	'question       ' NON présent.
+	>	'n’             ' présent.
+	>	'dissociable    ' NON présent.
+	>	'usage          ' NON présent.
+	>	'fait           ' NON présent.
+	>	'autre          ' présent.
+	>	'point          ' présent.
+	>	'important      ' présent.
+	>	'mentionner     ' présent.
+	>	'format         ' présent.
+	>	'apparaît       ' présent.
+	>	'généralement   ' présent.
+	>	'forme          ' présent.
+	>	'électronique   ' présent.
+	>	'concrètement   ' présent.
+	>	'fichier        ' présent.
+	>	'fichiers       ' présent.
+	>	'informatiques  ' présent.
+	>	'manipulables   ' présent.
+	>	'outils         ' présent.
+	>	'traitement     ' présent.
+	>	'cet            ' présent.
+	>	'aspect         ' présent.
+	>	'informatique   ' présent.
+	>	'anecdotique    ' présent.
+	>	'c’             ' présent.
+	>	'biais          ' présent.
+	>	'ordinateur     ' présent.
+	>	'pourra         ' présent.
+	>	'traitements    ' présent.
+	>	'exemple        ' présent.
+	>	'extraire       ' présent.
+	>	'occurrences    ' présent.
+	>	'contexte       ' présent.
+	>	'expression     ' présent.
+	>	'toutes         ' présent.
+	>	'dirais-je      ' présent.
+	>	'parlé          ' présent.
+	>	'parisien       ' présent.
+	>	'repérer        ' présent.
+	>	'noms           ' présent.
+	>	'fréquents      ' présent.
+	>	'scientifique   ' présent.
+	>	'scientext      ' présent.
+	>	'peut           ' présent.
+	>	'voir           ' présent.
+	>	'copies         ' présent.
+	>	'écran          ' présent.
+	>	'ci-dessous     ' présent.
+	>	':              ' présent.
+	>	'sont           ' présent.
+	>	'complètement   ' présent.
+	>	'nouveaux       ' présent.
+	>	'existé         ' présent.
+	>	'effet          ' présent.
+	>	'étudier        ' présent.
+	>	'variété        ' présent.
+	>	'parle          ' présent.
+	>	's’             ' présent.
+	>	'appuyer        ' présent.
+	>	'productions    ' présent.
+	>	'existantes     ' présent.
+
+
+----Suppression des doublons et comptage des occurences : ----
+
+	# Texte 2 : 
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'domaine'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : '«'
+	>	Doublon trouvé : 'selon'
+	>	Doublon trouvé : '»'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'textes'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'critères'
+	>	Doublon trouvé : 'étude'
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'donc'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'qu’'
+	>	Doublon trouvé : 'faut'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'ensemble'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'aide'
+	>	Doublon trouvé : 'd’'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'n’'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'effectuer'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'd’'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'occurrences'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'expression'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'français'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'français'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'd’'
+	>	Doublon trouvé : 'corpus'
+	>	Doublon trouvé : 'linguistique'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : 'étude'
+	>	Doublon trouvé : 'langue'
+	>	Doublon trouvé : '.'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'langue'
+	>	Doublon trouvé : 'l’'
+	>	Doublon trouvé : ','
+	>	Doublon trouvé : 'faut'
+	>	Doublon trouvé : 'langagières'
+	>	Doublon trouvé : '.'
+
+
+----Construction des vecteurs : ----
+
+	# Texte 2 : 
+	>	'allons         ' présent.
+	>	'intéresser     ' présent.
+	>	'cours          ' présent.
+	>	'linguistique   ' présent.
+	>	'corpus         ' présent.
+	>	'.              ' présent.
+	>	'd’             ' présent.
+	>	'aborder        ' présent.
+	>	'discipline     ' présent.
+	>	'approche       ' présent.
+	>	',              ' présent.
+	>	'faut           ' présent.
+	>	'évidemment     ' présent.
+	>	'commencer      ' présent.
+	>	'demander       ' présent.
+	>	'qu’            ' présent.
+	>	'trésor         ' présent.
+	>	'langue         ' présent.
+	>	'française      ' présent.
+	>	'grand          ' présent.
+	>	'dictionnaire   ' présent.
+	>	'référence      ' présent.
+	>	'français       ' présent.
+	>	'définit        ' présent.
+	>	'domaine        ' présent.
+	>	'«              ' présent.
+	>	'ensemble       ' présent.
+	>	'textes         ' présent.
+	>	'établi         ' présent.
+	>	'selon          ' présent.
+	>	'principe       ' présent.
+	>	'documentation  ' présent.
+	>	'exhaustive     ' présent.
+	>	'critère        ' présent.
+	>	'thématique     ' présent.
+	>	'exemplaire     ' présent.
+	>	'vue            ' présent.
+	>	'étude          ' présent.
+	>	'»              ' présent.
+	>	'john           ' présent.
+	>	'sinclair       ' présent.
+	>	'(              ' présent.
+	>	'1991           ' présent.
+	>	')              ' présent.
+	>	'linguiste      ' présent.
+	>	'britannique    ' présent.
+	>	'influent       ' présent.
+	>	'l’             ' présent.
+	>	'défini         ' présent.
+	>	'quant          ' présent.
+	>	'lui            ' présent.
+	>	'collection     ' présent.
+	>	'données        ' présent.
+	>	'langagières    ' présent.
+	>	'sélectionnées  ' présent.
+	>	'organisées     ' présent.
+	>	'critères       ' présent.
+	>	'linguistiques  ' présent.
+	>	'explicites     ' présent.
+	>	'servir         ' présent.
+	>	'd'             ' présent.
+	>	'échantillon    ' présent.
+	>	'langage        ' présent.
+	>	'linguistes     ' présent.
+	>	'construisent   ' présent.
+	>	'donc           ' présent.
+	>	'sélectionnant  ' présent.
+	>	'sous-ensemble  ' présent.
+	>	'aide           ' présent.
+	>	'spécifiques    ' présent.
+	>	'effectuer      ' présent.
+	>	'question       ' présent.
+	>	'n’             ' présent.
+	>	'dissociable    ' présent.
+	>	'usage          ' présent.
+	>	'fait           ' présent.
+	>	'autre          ' présent.
+	>	'point          ' présent.
+	>	'important      ' présent.
+	>	'mentionner     ' présent.
+	>	'format         ' présent.
+	>	'apparaît       ' présent.
+	>	'généralement   ' présent.
+	>	'forme          ' présent.
+	>	'électronique   ' présent.
+	>	'concrètement   ' présent.
+	>	'fichier        ' présent.
+	>	'fichiers       ' présent.
+	>	'informatiques  ' présent.
+	>	'manipulables   ' présent.
+	>	'outils         ' présent.
+	>	'traitement     ' présent.
+	>	'cet            ' présent.
+	>	'aspect         ' présent.
+	>	'informatique   ' présent.
+	>	'anecdotique    ' présent.
+	>	'c’             ' présent.
+	>	'biais          ' présent.
+	>	'ordinateur     ' présent.
+	>	'pourra         ' présent.
+	>	'traitements    ' présent.
+	>	'exemple        ' présent.
+	>	'extraire       ' présent.
+	>	'occurrences    ' présent.
+	>	'contexte       ' présent.
+	>	'expression     ' présent.
+	>	'toutes         ' présent.
+	>	'dirais-je      ' présent.
+	>	'parlé          ' présent.
+	>	'parisien       ' présent.
+	>	'repérer        ' présent.
+	>	'noms           ' présent.
+	>	'fréquents      ' présent.
+	>	'scientifique   ' présent.
+	>	'scientext      ' présent.
+	>	'peut           ' présent.
+	>	'voir           ' présent.
+	>	'copies         ' présent.
+	>	'écran          ' présent.
+	>	'ci-dessous     ' présent.
+	>	':              ' présent.
+	>	'sont           ' présent.
+	>	'complètement   ' présent.
+	>	'nouveaux       ' présent.
+	>	'existé         ' présent.
+	>	'effet          ' présent.
+	>	'étudier        ' présent.
+	>	'variété        ' présent.
+	>	'parle          ' présent.
+	>	's’             ' présent.
+	>	'appuyer        ' présent.
+	>	'productions    ' présent.
+	>	'existantes     ' présent.
+
+OPERATION TERMINEE.
+###################################################
